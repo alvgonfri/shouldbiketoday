@@ -1,0 +1,4 @@
+.env
+sbt_venv/
+__pycache__/
+*.pyc
